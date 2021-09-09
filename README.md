@@ -2,10 +2,11 @@
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diegomirhan)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/diegomirhan)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://cubic-saxophone-91a.notion.site/Python-Documentation-64035b24b41247699055c0d6cc913a19)
 
 ## I'm a Developer and Student!!
 
-- 🔭 I just launched my first discord server: [BlackWidow](https://discord.io/blackwidowbr)
+- 🔭 I just created my first discord server: [BlackWidow](https://discord.io/blackwidowbr)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
