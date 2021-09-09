@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and read some books and watch anime
 
 
-### Connect with me:
+### 💎 Connect with me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/diegomirhan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegomirhan)
@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diegomirhan)
 
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,7 +31,7 @@
 
 ---
 
-### 📺 Latest Stats
+### 📊 Latest Stats
 
 <div>
   <a href="https://github.com/diegormirhan">
