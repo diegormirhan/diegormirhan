@@ -1,26 +1,11 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about
-- 📫 How to reach me: 
-- 😄 Pronouns:
-- ⚡ Fun fact:
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=diegormirhan&show_icons=true&theme=cobalt&count_private=true$include_all_commits=true)](https://github.com/diegormirhan/)
-
-
 ### Hi there, I'm Diego 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Telegram](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://t.me/diegomirhan)
+[![Steam](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://steamcommunity.com/id/diegomirhan)
 
 ## I'm a Developer and Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first discord server: [BlackWidow](https://discord.io/blackwidowbr)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
