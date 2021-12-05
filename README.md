@@ -6,7 +6,7 @@
 
 ## I'm a Developer and Student!!
 
-- 🔭 I just created my first discord server: [BlackWidow](https://discord.gg/YK7G3QDXeS)
+- 🔭 I just created my first discord server: [BlackWidow](https://discord.gg/eraZDq8T7P)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
