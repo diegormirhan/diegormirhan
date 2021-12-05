@@ -9,7 +9,7 @@
 - 🔭 I just created my first discord server: [BlackWidow](https://discord.gg/eraZDq8T7P)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read some books and watch anime
 
 
