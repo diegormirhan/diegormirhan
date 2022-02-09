@@ -1,10 +1,10 @@
-### Hi there, I'm Diego 👋
+# Hi there, I'm Diego 👋
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diegomirhan)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/diegomirhan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:mirhan.diego@gmail.com)
 
-# I'm a Developer and Student!!
+## I'm a Developer and Student!!
 ---
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Diego Mirhan">
 
