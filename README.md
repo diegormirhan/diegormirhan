@@ -6,6 +6,7 @@
 
 ## I'm a Developer and Student!!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Diego Mirhan">
+
 - 🔭 I just created my first discord server: [BlackWidow](https://discord.gg/eraZDq8T7P)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
