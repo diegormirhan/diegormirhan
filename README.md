@@ -2,7 +2,7 @@
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diegomirhan)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/diegomirhan)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://cubic-saxophone-91a.notion.site/Python-Documentation-64035b24b41247699055c0d6cc913a19)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](https://mailto:mirhan.diego@gmail.com)
 
 ## I'm a Developer and Student!!
 
