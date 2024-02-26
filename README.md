@@ -1,6 +1,3 @@
-# Hi there, I'm Diego 👋
-
-## I'm a Developer and Student!!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Diego Mirhan">
 
 - 🌱 I’m currently developing a Desktop App with ElectronJS
