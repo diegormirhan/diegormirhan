@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently developing a Desktop App with ElectronJS
 - 👯 I’m looking to make projects with other people
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 
 ### 💎 Contact Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/diegomirhan)
