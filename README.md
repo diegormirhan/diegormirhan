@@ -1,12 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Diego Mirhan">
 
-- 🌱 I’m currently developing a Desktop App with ElectronJS
-- 👯 I’m looking to make projects with other people
-- 🥅 2026 Goals: Contribute more to Open Source projects
+- 🚀 **Current Focus**: Developing high-performance asynchronous Python pipelines, local AI/LLM integrations, and business solutions.
+- 🛠️ **Core Expertise**: Asynchronous programming (`asyncio`, multiprocessing), intelligent database caching (PostgreSQL/JSONB), containerization (Docker/Docker Compose), and Machine Learning/Deep Leaning architectures.
+- 👯 **Collaboration**: Looking to collaborate on advanced AI engineering pipelines, open-source automation tools, and agentic workflows (CrewAI, LangChain).
+- 🥅 **2026 Goals**: Contribute actively to open-source AI infrastructure and deploy production-ready local LLM systems.
 
 ### 💎 Contact Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/diegomirhan)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegormirhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirhan.diego@gmail.com)
 
 ### 💻 Languages and Tools:
 
@@ -23,14 +25,3 @@
    [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/diegormirhan)
    
 ---
-
-### 📊 Latest Stats
-
-<div>
-  <a href="https://github.com/diegormirhan">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegormirhan&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegormirhan&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-
